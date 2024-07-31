@@ -1,4 +1,4 @@
-#ola💙💙
+ola💙💙
 meu nome é Lara piettra santos
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
